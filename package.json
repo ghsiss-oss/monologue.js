@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.11",
-    "riveter": "github:ghsiss-oss/riveter"
+    "riveter": "github:ghsiss-oss/riveter#v0.2.1"
   },
   "devDependencies": {
     "bower": "^1.4.1",
